@@ -1,0 +1,15 @@
+{
+  "doc_id": "CBE Annual Report 2012-13.pdf",
+  "origin_type": "native_digital",
+  "layout_complexity": "multi_column",
+  "language_code": "en",
+  "confidence_score": 0.95,
+  "estimated_cost_tier": "medium",
+  "selected_strategy": "Strategy B",
+  "metadata": {
+    "char_density": 23.67217930943421,
+    "image_ratio": 0.09518485359003359,
+    "avg_chars_per_page": 1147.4,
+    "detected_cols": 2
+  }
+}

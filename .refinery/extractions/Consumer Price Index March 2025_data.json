@@ -1,0 +1,1977 @@
+{
+  "doc_id": "Consumer Price Index March 2025",
+  "blocks": [
+    {
+      "text": "Content",
+      "bbox": {
+        "page": 1,
+        "x0": 39.6,
+        "y0": 581.098,
+        "x1": 114.70400000000001,
+        "y1": 565.5806243272335
+      },
+      "block_type": "section_header"
+    },
+    {
+      "text": "Summary",
+      "bbox": {
+        "page": 1,
+        "x0": 38.88,
+        "y0": 521.90836,
+        "x1": 116.91504,
+        "y1": 508.37402531594785
+      },
+      "block_type": "list_item"
+    },
+    {
+      "text": "Year -on -Year General, Food & Non -food Infla-",
+      "bbox": {
+        "page": 1,
+        "x0": 38.88,
+        "y0": 495.538,
+        "x1": 147.93600000000004,
+        "y1": 455.1701925777332
+      },
+      "block_type": "list_item"
+    },
+    {
+      "text": "Month -on -Month General, Food & Non -food Inflation",
+      "bbox": {
+        "page": 1,
+        "x0": 38.88,
+        "y0": 441.298,
+        "x1": 145.17600000000002,
+        "y1": 386.5301925777332
+      },
+      "block_type": "list_item"
+    },
+    {
+      "text": "12 -Month Moving Average General, Food and Non -food Inflation",
+      "bbox": {
+        "page": 1,
+        "x0": 38.88,
+        "y0": 377.900776,
+        "x1": 146.68219200000004,
+        "y1": 327.4989771715145
+      },
+      "block_type": "list_item"
+    },
+    {
+      "text": "Annual Inflation trend",
+      "bbox": {
+        "page": 1,
+        "x0": 38.88,
+        "y0": 313.44836,
+        "x1": 137.38536,
+        "y1": 283.11402531594786
+      },
+      "block_type": "list_item"
+    },
+    {
+      "text": "Glossary",
+      "bbox": {
+        "page": 1,
+        "x0": 38.88,
+        "y0": 255.60835999999995,
+        "x1": 115.48296,
+        "y1": 242.0740253159479
+      },
+      "block_type": "list_item"
+    },
+    {
+      "text": "ETHIOPIAN STATISTICAL SERVICE",
+      "bbox": {
+        "page": 1,
+        "x0": 162.38,
+        "y0": 749.562,
+        "x1": 449.48,
+        "y1": 732.2102888665999
+      },
+      "block_type": "section_header"
+    },
+    {
+      "text": "Statistical Bulletin",
+      "bbox": {
+        "page": 1,
+        "x0": 233.45,
+        "y0": 727.861416,
+        "x1": 378.5251760000001,
+        "y1": 710.4865692517552
+      },
+      "block_type": "section_header"
+    },
+    {
+      "text": "MONTHLY NEWS RELEASE INFLATION REPORT ON MARCH, EFY 2017",
+      "bbox": {
+        "page": 1,
+        "x0": 144.62,
+        "y0": 687.05164,
+        "x1": 466.71896000000004,
+        "y1": 642.7464561283851
+      },
+      "block_type": "section_header"
+    },
+    {
+      "text": "Issue No. 21/2017",
+      "bbox": {
+        "page": 1,
+        "x0": 213.65,
+        "y0": 634.67764,
+        "x1": 305.47123999999997,
+        "y1": 625.0763598395185
+      },
+      "block_type": "text"
+    },
+    {
+      "text": "1. Summary",
+      "bbox": {
+        "page": 1,
+        "x0": 166.34,
+        "y0": 612.4183599999999,
+        "x1": 247.88,
+        "y1": 598.8840253159478
+      },
+      "block_type": "section_header"
+    },
+    {
+      "text": "The  Consumer  Price  Index  (CPI),  a  key  economic  statistics,  is  surveyed,  analyzed,  and made available to data users on a monthly basis.",
+      "bbox": {
+        "page": 1,
+        "x0": 161.86550473451152,
+        "y0": 585.59764,
+        "x1": 577.5490514120002,
+        "y1": 557.9963598395185
+      },
+      "block_type": "text"
+    },
+    {
+      "text": "The year -on -year, general inflation rate (annual percentage change) in the country stood at 13.6 percent for the month of March EFY2017. A year earlier (in March EFY2016), the rate was 26.2 percent. The month -on -month general inflation rate increased by 2.7 percent for the month of March -EFY2017. It was 4.0 percent in March EFY2016.",
+      "bbox": {
+        "page": 1,
+        "x0": 161.86426498688385,
+        "y0": 549.6170559999999,
+        "x1": 578.0354314120001,
+        "y1": 485.96635983951853
+      },
+      "block_type": "text"
+    },
+    {
+      "text": "General inflation encompasses of two main divisions and twenty -one groups of expenditures.  These divisions registered the following price changes during the month of March EFY2017 compared with March EFY2016.",
+      "bbox": {
+        "page": 1,
+        "x0": 161.86550473451152,
+        "y0": 477.56764,
+        "x1": 577.5888914120004,
+        "y1": 431.96635983951853
+      },
+      "block_type": "text"
+    },
+    {
+      "text": "2. Food & Non -alcoholic Beverages and Non -Food Inflation (Year -on -Year)",
+      "bbox": {
+        "page": 1,
+        "x0": 159.98,
+        "y0": 410.76135999999997,
+        "x1": 525.89776,
+        "y1": 400.11897717151453
+      },
+      "block_type": "section_header"
+    },
+    {
+      "text": "The year -on -year inflation and the month -to -month inflation rates helps to gauge the current inflation trajectory, as they capture short -term fluctuations in prices and provides an immediate indicator of inflationary pressures. Particularly, the month -to -month is also crucial  for  monitoring  changes  in  consumer  prices  and  identifying  any  sudden  spikes  or  declines in inflation.",
+      "bbox": {
+        "page": 1,
+        "x0": 159.98,
+        "y0": 383.86705600000005,
+        "x1": 575.4547600000002,
+        "y1": 302.2263598395185
+      },
+      "block_type": "text"
+    },
+    {
+      "text": "Food & Non -alcoholic Beverages index",
+      "bbox": {
+        "page": 1,
+        "x0": 158.18,
+        "y0": 293.38136,
+        "x1": 349.58167999999984,
+        "y1": 282.73897717151453
+      },
+      "block_type": "section_header"
+    },
+    {
+      "text": "The year -on -year  inflation  rate,  also  known  as  the  annual  inflation  rate,  measures  the  percentage change in overall price levels from one year to the same month in the previous year. Accordingly, the year -on -year inflation rate of the Food and Non -alcoholic component of the CPI, for the month of March  2017 EFY stood at 11.9%. This implies that the CPI of Food and Non -Alcoholic Beverages has, on average, increased by 11.9% compared to March EFY2016. The major contributing factors for the rise of food inflation for  March EFY2017 was the observed increase in the average prices of major food commodities such as bread and cereals (1.2%), vegetables (6.1%), meat (17.8%), Sugar, jam, honey & chocolate (28.8%),  Milk, Cheese and Eggs  (8.2%), Oils and Fats (36.3%), Fruit (13.4%),  and Food products n.e.c (26.7%).",
+      "bbox": {
+        "page": 1,
+        "x0": 158.18,
+        "y0": 273.66764,
+        "x1": 579.5615200000001,
+        "y1": 120.03635983951858
+      },
+      "block_type": "text"
+    },
+    {
+      "text": "www.ess.gov.et",
+      "bbox": {
+        "page": 1,
+        "x0": 477.58,
+        "y0": 62.375999999999976,
+        "x1": 558.4720000000001,
+        "y1": 51.157190839694636
+      },
+      "block_type": "page_footer"
+    },
+    {
+      "text": "March EFY2017",
+      "bbox": {
+        "page": 1,
+        "x0": 439.15,
+        "y0": 634.67764,
+        "x1": 516.92764,
+        "y1": 625.0763598395185
+      },
+      "block_type": "section_header"
+    },
+    {
+      "text": "YOUR RELIABLE DATA SOURCE",
+      "bbox": {
+        "page": 1,
+        "x0": 183.02,
+        "y0": 60.69024000000002,
+        "x1": 370.98535999999996,
+        "y1": 50.368935572519035
+      },
+      "block_type": "page_footer"
+    },
+    {
+      "text": "Issue No. 21/2017",
+      "bbox": {
+        "page": 2,
+        "x0": 62.664,
+        "y0": 652.79764,
+        "x1": 154.48523999999995,
+        "y1": 643.1963598395185
+      },
+      "block_type": "section_header"
+    },
+    {
+      "text": "Page 2",
+      "bbox": {
+        "page": 2,
+        "x0": 513.46,
+        "y0": 654.50236,
+        "x1": 550.90888,
+        "y1": 645.9160787944026
+      },
+      "block_type": "text"
+    },
+    {
+      "text": "Beginning from March -EFY 2016 the magnitude of the inflation rate steadily declined up to March -EFY 2017.  In  March  EFY -2017  General  inflation  was  13.6%  as  compared  to  the  one  observed  in  March -EFY2016.",
+      "bbox": {
+        "page": 2,
+        "x0": 50.28,
+        "y0": 631.71136,
+        "x1": 567.3068799999999,
+        "y1": 581.4689771715144
+      },
+      "block_type": "text"
+    },
+    {
+      "text": "www.ess.gov.et",
+      "bbox": {
+        "page": 2,
+        "x0": 477.58,
+        "y0": 62.375999999999976,
+        "x1": 558.4720000000001,
+        "y1": 51.157190839694636
+      },
+      "block_type": "page_footer"
+    },
+    {
+      "text": "ETHIOPIAN STATISTICAL SERVICE",
+      "bbox": {
+        "page": 2,
+        "x0": 162.38,
+        "y0": 749.562,
+        "x1": 449.48,
+        "y1": 732.2102888665999
+      },
+      "block_type": "section_header"
+    },
+    {
+      "text": "Statistical Bulletin",
+      "bbox": {
+        "page": 2,
+        "x0": 233.45,
+        "y0": 727.861416,
+        "x1": 378.5251760000001,
+        "y1": 710.4865692517552
+      },
+      "block_type": "section_header"
+    },
+    {
+      "text": "YOUR RELIABLE DATA SOURCE",
+      "bbox": {
+        "page": 2,
+        "x0": 183.02,
+        "y0": 60.69024000000002,
+        "x1": 370.98535999999996,
+        "y1": 50.368935572519035
+      },
+      "block_type": "page_footer"
+    },
+    {
+      "text": "ETHIOPIAN STATISTICAL SERVICE",
+      "bbox": {
+        "page": 3,
+        "x0": 162.38,
+        "y0": 749.562,
+        "x1": 449.48,
+        "y1": 732.2102888665999
+      },
+      "block_type": "section_header"
+    },
+    {
+      "text": "Statistical Bulletin",
+      "bbox": {
+        "page": 3,
+        "x0": 233.45,
+        "y0": 727.861416,
+        "x1": 378.5251760000001,
+        "y1": 710.4865692517552
+      },
+      "block_type": "section_header"
+    },
+    {
+      "text": "As can be seen from the above figure, the non - food year - on - year inflation rate increased in March - ETY2017 as compared to last month while the Food inflation decreased in magnitude. The Non - Food inflation increased by 16.2 percent in the same period. Particularly, Alcoholic Beverages and Tobacco increased by (15.2%); Housing, water, electricity & other fuel component (17.4%); Furnishings, house- hold equipment & routine maintenance of the House (15.4%);   Health (12.7%); Transport (32.5%); Com- munication (2.0%); Education (23.3%);  Restaurants and hotels (18.3%) and Miscellaneous goods and services (18.4%) have contributed for the rise in non - food inflation rate in March EFY2017.",
+      "bbox": {
+        "page": 3,
+        "x0": 39.48,
+        "y0": 239.98136,
+        "x1": 548.7097600000001,
+        "y1": 138.22897717151454
+      },
+      "block_type": "text"
+    },
+    {
+      "text": "Fig 1: Food and Non - Food Inflation (%, Year - on - Year), March EFY2016 - March EFY2017",
+      "bbox": {
+        "page": 3,
+        "x0": 85.464,
+        "y0": 621.2713600000001,
+        "x1": 514.5272799999999,
+        "y1": 610.6289771715145
+      },
+      "block_type": "section_header"
+    },
+    {
+      "text": "Page 3",
+      "bbox": {
+        "page": 3,
+        "x0": 513.46,
+        "y0": 654.50236,
+        "x1": 550.90888,
+        "y1": 645.9160787944026
+      },
+      "block_type": "text"
+    },
+    {
+      "text": "Issue No. 21/2017",
+      "bbox": {
+        "page": 3,
+        "x0": 82.344,
+        "y0": 652.10236,
+        "x1": 180.14888,
+        "y1": 643.5160787944026
+      },
+      "block_type": "section_header"
+    },
+    {
+      "text": "Non - Food Inflation and  Alcoholic Beverages (Year - on - Year)",
+      "bbox": {
+        "page": 3,
+        "x0": 44.52,
+        "y0": 267.5813599999999,
+        "x1": 343.0781599999999,
+        "y1": 256.9389771715146
+      },
+      "block_type": "section_header"
+    },
+    {
+      "text": "www.ess.gov.et",
+      "bbox": {
+        "page": 3,
+        "x0": 477.58,
+        "y0": 62.375999999999976,
+        "x1": 558.4720000000001,
+        "y1": 51.157190839694636
+      },
+      "block_type": "page_footer"
+    },
+    {
+      "text": "YOUR RELIABLE DATA SOURCE",
+      "bbox": {
+        "page": 3,
+        "x0": 183.02,
+        "y0": 60.69024000000002,
+        "x1": 370.98535999999996,
+        "y1": 50.368935572519035
+      },
+      "block_type": "page_footer"
+    },
+    {
+      "text": "Issue No. 21/2017",
+      "bbox": {
+        "page": 4,
+        "x0": 55.2,
+        "y0": 647.4223599999999,
+        "x1": 153.02888,
+        "y1": 638.8360787944025
+      },
+      "block_type": "text"
+    },
+    {
+      "text": "Major sub divisions in the food and non -food commodities (year -on -Year).",
+      "bbox": {
+        "page": 4,
+        "x0": 48.96,
+        "y0": 624.088,
+        "x1": 447.15400000000005,
+        "y1": 612.5201925777332
+      },
+      "block_type": "section_header"
+    },
+    {
+      "text": "When we look at major division of food and non -food commodities, which holds large share in the commodity basket, the magnitude of inflation rate at March EFY2017 showed a declining situation for Food as compared to the previous month.  From Food and Non -Alcoholic Beverage aspect, the highest weight is hold by Bread and Cereals, Vegetables, Other -Food products, Non -Alcoholic Beverage, and Meat; whose inflation at March EFY2017 is recorded  an increase for Bread & Cereals (1.2%);  Vegetables  (6.1%);  Other -Food products (Food products not elsewhere classified)  (26.7%); Meat (17.8%) and Non -Alcoholic Beverages & coffee (50.2%).",
+      "bbox": {
+        "page": 4,
+        "x0": 48.96,
+        "y0": 602.79136,
+        "x1": 547.18,
+        "y1": 473.19897717151457
+      },
+      "block_type": "text"
+    },
+    {
+      "text": "Similarly, during March 2017 EFY the year -on -year inflation rate of the major Non -Food items of Housing, Water, Electricity, Gas, & Other Fuels (17.4%) ; Restaurants and Hotels (18.3%) ; Alcoholic  Beverages  &  Tobacco (15.2%) ;  Furnishings,  Household  Equipment  &  Routine  Household Maintenance of the House (15.4%) and Clothing and Footwear (8.7%).",
+      "bbox": {
+        "page": 4,
+        "x0": 48.96,
+        "y0": 464.04136,
+        "x1": 547.1104,
+        "y1": 393.7217608
+      },
+      "block_type": "text"
+    },
+    {
+      "text": "Table 2. Major sub divisions in the food and non -food commodities (year -on -Year).",
+      "bbox": {
+        "page": 4,
+        "x0": 91.824,
+        "y0": 379.460776,
+        "x1": 498.889384,
+        "y1": 368.79525755667
+      },
+      "block_type": "caption"
+    },
+    {
+      "text": "www.ess.gov.et",
+      "bbox": {
+        "page": 4,
+        "x0": 477.58,
+        "y0": 62.375999999999976,
+        "x1": 558.4720000000001,
+        "y1": 51.157190839694636
+      },
+      "block_type": "page_footer"
+    },
+    {
+      "text": "ETHIOPIAN STATISTICAL SERVICE",
+      "bbox": {
+        "page": 4,
+        "x0": 162.38,
+        "y0": 749.562,
+        "x1": 449.48,
+        "y1": 732.2102888665999
+      },
+      "block_type": "section_header"
+    },
+    {
+      "text": "Statistical Bulletin",
+      "bbox": {
+        "page": 4,
+        "x0": 233.45,
+        "y0": 727.861416,
+        "x1": 378.5251760000001,
+        "y1": 710.4865692517552
+      },
+      "block_type": "section_header"
+    },
+    {
+      "text": "Page 4",
+      "bbox": {
+        "page": 4,
+        "x0": 513.46,
+        "y0": 648.1423599999999,
+        "x1": 550.90888,
+        "y1": 639.5560787944025
+      },
+      "block_type": "text"
+    },
+    {
+      "text": "YOUR RELIABLE DATA SOURCE",
+      "bbox": {
+        "page": 4,
+        "x0": 183.02,
+        "y0": 60.69024000000002,
+        "x1": 370.98535999999996,
+        "y1": 50.368935572519035
+      },
+      "block_type": "page_footer"
+    },
+    {
+      "text": "Issue No. 21/2017",
+      "bbox": {
+        "page": 5,
+        "x0": 45.0,
+        "y0": 672.26236,
+        "x1": 142.82888,
+        "y1": 663.6760787944025
+      },
+      "block_type": "text"
+    },
+    {
+      "text": "Month -to -Month Inflation Rate",
+      "bbox": {
+        "page": 5,
+        "x0": 43.8,
+        "y0": 648.17164,
+        "x1": 265.66616,
+        "y1": 632.7864561283851
+      },
+      "block_type": "section_header"
+    },
+    {
+      "text": "The month -to -month general inflation rate for March EFY2017 has increased by 2.7 percent compared to what was observed in February EFY2017. During the same month, the food and non -alcoholic component of the inflation increased by 2.5 percent whereas the non -food component for its part increased by 3.2 percent.",
+      "bbox": {
+        "page": 5,
+        "x0": 43.8,
+        "y0": 617.75764,
+        "x1": 555.4634800000001,
+        "y1": 570.0689771715145
+      },
+      "block_type": "text"
+    },
+    {
+      "text": "Table 3: General Inflation Rate (%, Month -to -Month), March EFY2016 -March EFY2017",
+      "bbox": {
+        "page": 5,
+        "x0": 71.064,
+        "y0": 547.44136,
+        "x1": 498.6887199999999,
+        "y1": 536.7989771715145
+      },
+      "block_type": "caption"
+    },
+    {
+      "text": "Month -to -Month Inflation of Food and Non -Food categories: In March EFY2017, among the food components of the CPI, Meat increased by (1.4%), Fish and sea food increased by (0.9%), Milk, Cheese and Eggs increased by (5.7%), Oils and Fats increased by (7.5%),  Food products n.e.c increased by (3.0%),   Non -Alcoholic beverages and coffee increased by (6.4%) on the month to month basis.",
+      "bbox": {
+        "page": 5,
+        "x0": 46.92,
+        "y0": 267.70136,
+        "x1": 568.6630000000001,
+        "y1": 201.25525755667002
+      },
+      "block_type": "text"
+    },
+    {
+      "text": "www.ess.gov.et",
+      "bbox": {
+        "page": 5,
+        "x0": 477.58,
+        "y0": 62.375999999999976,
+        "x1": 558.4720000000001,
+        "y1": 51.157190839694636
+      },
+      "block_type": "page_footer"
+    },
+    {
+      "text": "ETHIOPIAN STATISTICAL SERVICE",
+      "bbox": {
+        "page": 5,
+        "x0": 162.38,
+        "y0": 749.562,
+        "x1": 449.48,
+        "y1": 732.2102888665999
+      },
+      "block_type": "section_header"
+    },
+    {
+      "text": "Statistical Bulletin",
+      "bbox": {
+        "page": 5,
+        "x0": 233.45,
+        "y0": 727.861416,
+        "x1": 378.5251760000001,
+        "y1": 710.4865692517552
+      },
+      "block_type": "section_header"
+    },
+    {
+      "text": "Page 5",
+      "bbox": {
+        "page": 5,
+        "x0": 531.7,
+        "y0": 672.86236,
+        "x1": 569.14888,
+        "y1": 664.2760787944026
+      },
+      "block_type": "text"
+    },
+    {
+      "text": "YOUR RELIABLE DATA SOURCE",
+      "bbox": {
+        "page": 5,
+        "x0": 183.02,
+        "y0": 60.69024000000002,
+        "x1": 370.98535999999996,
+        "y1": 50.368935572519035
+      },
+      "block_type": "page_footer"
+    },
+    {
+      "text": "Issue No. 21/2017",
+      "bbox": {
+        "page": 6,
+        "x0": 55.2,
+        "y0": 654.50236,
+        "x1": 153.02888,
+        "y1": 645.9160787944026
+      },
+      "block_type": "text"
+    },
+    {
+      "text": "Page 6",
+      "bbox": {
+        "page": 6,
+        "x0": 513.46,
+        "y0": 654.50236,
+        "x1": 550.90888,
+        "y1": 645.9160787944026
+      },
+      "block_type": "text"
+    },
+    {
+      "text": "Looking at non -food items, the increase in month -to -month comparison was observed for Alcoholic beverages and tobacco increased by (2.4%), Clothing and Footwear (2.8%), Furniture, Furnishing, household equipment and routine maintenance of the house  increased by (4.1%), Housing, water, Electricity, gas and other fuels increased by (2.5%), Transport increased by (1.3%), Recreation and culture increased by (3.1%), and Hotel and Restaurants (4.7%), Health increased by (6.4%), Communication increased by (2.9%), and Miscellaneous Goods and Services increased by (3.6%) showed an increase during the month.",
+      "bbox": {
+        "page": 6,
+        "x0": 46.8,
+        "y0": 628.59136,
+        "x1": 545.3267199999999,
+        "y1": 499.11897717151453
+      },
+      "block_type": "text"
+    },
+    {
+      "text": "Fig 2: Food and Non -Food Inflation (%, Month -to -Month), March EFY2016 -March EFY2017",
+      "bbox": {
+        "page": 6,
+        "x0": 71.064,
+        "y0": 475.08135999999996,
+        "x1": 520.6487199999999,
+        "y1": 464.4389771715145
+      },
+      "block_type": "caption"
+    },
+    {
+      "text": "www.ess.gov.et",
+      "bbox": {
+        "page": 6,
+        "x0": 477.58,
+        "y0": 62.375999999999976,
+        "x1": 558.4720000000001,
+        "y1": 51.157190839694636
+      },
+      "block_type": "page_footer"
+    },
+    {
+      "text": "ETHIOPIAN STATISTICAL SERVICE",
+      "bbox": {
+        "page": 6,
+        "x0": 162.38,
+        "y0": 749.562,
+        "x1": 449.48,
+        "y1": 732.2102888665999
+      },
+      "block_type": "section_header"
+    },
+    {
+      "text": "Statistical Bulletin",
+      "bbox": {
+        "page": 6,
+        "x0": 233.45,
+        "y0": 727.861416,
+        "x1": 378.5251760000001,
+        "y1": 710.4865692517552
+      },
+      "block_type": "section_header"
+    },
+    {
+      "text": "YOUR RELIABLE DATA SOURCE",
+      "bbox": {
+        "page": 6,
+        "x0": 183.02,
+        "y0": 60.69024000000002,
+        "x1": 370.98535999999996,
+        "y1": 50.368935572519035
+      },
+      "block_type": "page_footer"
+    },
+    {
+      "text": "ETHIOPIAN STATISTICAL SERVICE",
+      "bbox": {
+        "page": 7,
+        "x0": 162.38,
+        "y0": 749.562,
+        "x1": 449.48,
+        "y1": 732.2102888665999
+      },
+      "block_type": "section_header"
+    },
+    {
+      "text": "Statistical Bulletin",
+      "bbox": {
+        "page": 7,
+        "x0": 233.45,
+        "y0": 727.861416,
+        "x1": 378.5251760000001,
+        "y1": 710.4865692517552
+      },
+      "block_type": "section_header"
+    },
+    {
+      "text": "Page 7",
+      "bbox": {
+        "page": 7,
+        "x0": 522.22,
+        "y0": 654.50236,
+        "x1": 559.66888,
+        "y1": 645.9160787944026
+      },
+      "block_type": "text"
+    },
+    {
+      "text": "3:  12 -Month Moving Average General, Food and Non -food Inflation",
+      "bbox": {
+        "page": 7,
+        "x0": 62.304,
+        "y0": 620.93836,
+        "x1": 484.7423200000001,
+        "y1": 607.4040253159479
+      },
+      "block_type": "section_header"
+    },
+    {
+      "text": "The 12 -month moving average figures provides a broader perspective on inflation trends over a longer period. As it  is  indicated  in  Table  below  the  country  level  overall  inflation  rate  (annual  change  based  on 12  months Moving Average) was 17.9 percent in March EFY2017 as compared to the one observed in a similar period a year ago. Since March -EFY2016 inflation has been relatively eased in the country.",
+      "bbox": {
+        "page": 7,
+        "x0": 56.52,
+        "y0": 579.1176399999999,
+        "x1": 559.39,
+        "y1": 515.4863598395185
+      },
+      "block_type": "text"
+    },
+    {
+      "text": "Table 4. Overall CPI and 12 -month moving average Overall Inflation rate March  EEFY2017",
+      "bbox": {
+        "page": 7,
+        "x0": 81.144,
+        "y0": 488.40136,
+        "x1": 523.5394399999996,
+        "y1": 477.7589771715146
+      },
+      "block_type": "caption"
+    },
+    {
+      "text": "www.ess.gov.et",
+      "bbox": {
+        "page": 7,
+        "x0": 477.58,
+        "y0": 62.375999999999976,
+        "x1": 558.4720000000001,
+        "y1": 51.157190839694636
+      },
+      "block_type": "page_footer"
+    },
+    {
+      "text": "YOUR RELIABLE DATA SOURCE",
+      "bbox": {
+        "page": 7,
+        "x0": 183.02,
+        "y0": 60.69024000000002,
+        "x1": 370.98535999999996,
+        "y1": 50.368935572519035
+      },
+      "block_type": "page_footer"
+    },
+    {
+      "text": "Issue No. 21/2017",
+      "bbox": {
+        "page": 8,
+        "x0": 57.6,
+        "y0": 654.50236,
+        "x1": 155.42888,
+        "y1": 645.9160787944026
+      },
+      "block_type": "text"
+    },
+    {
+      "text": "Page 8",
+      "bbox": {
+        "page": 8,
+        "x0": 522.22,
+        "y0": 654.50236,
+        "x1": 559.66888,
+        "y1": 645.9160787944026
+      },
+      "block_type": "text"
+    },
+    {
+      "text": "12 -month moving average Food and Non -Food Inflation rate (March EFY2016 -March EFY2017)",
+      "bbox": {
+        "page": 8,
+        "x0": 73.704,
+        "y0": 608.55136,
+        "x1": 540.7465599999998,
+        "y1": 597.9089771715145
+      },
+      "block_type": "section_header"
+    },
+    {
+      "text": "Dis -aggregated, 12 -month moving average food inflation increased by 19.3 percent as compared to the  one  observed  a  year  ago  and  non -food  inflation  rate  increased  by  15.7  percent  in  March EFY2017 as compared to the one observed in March EFY2016.",
+      "bbox": {
+        "page": 8,
+        "x0": 65.544,
+        "y0": 574.23136,
+        "x1": 557.7194800000001,
+        "y1": 523.9589771715144
+      },
+      "block_type": "text"
+    },
+    {
+      "text": "Table 5: 12 -month moving average Food and Non -Food Inflation rate (March EFY2016 -March  EFY2017) Baseline: Dec, EFY2009= 100",
+      "bbox": {
+        "page": 8,
+        "x0": 45.84,
+        "y0": 499.68136,
+        "x1": 558.0375999999998,
+        "y1": 475.83897717151456
+      },
+      "block_type": "caption"
+    },
+    {
+      "text": "www.ess.gov.et",
+      "bbox": {
+        "page": 8,
+        "x0": 477.58,
+        "y0": 62.375999999999976,
+        "x1": 558.4720000000001,
+        "y1": 51.157190839694636
+      },
+      "block_type": "page_footer"
+    },
+    {
+      "text": "ETHIOPIAN STATISTICAL SERVICE",
+      "bbox": {
+        "page": 8,
+        "x0": 162.38,
+        "y0": 749.562,
+        "x1": 449.48,
+        "y1": 732.2102888665999
+      },
+      "block_type": "section_header"
+    },
+    {
+      "text": "Statistical Bulletin",
+      "bbox": {
+        "page": 8,
+        "x0": 233.45,
+        "y0": 727.861416,
+        "x1": 378.5251760000001,
+        "y1": 710.4865692517552
+      },
+      "block_type": "section_header"
+    },
+    {
+      "text": "YOUR RELIABLE DATA SOURCE",
+      "bbox": {
+        "page": 8,
+        "x0": 183.02,
+        "y0": 60.69024000000002,
+        "x1": 370.98535999999996,
+        "y1": 50.368935572519035
+      },
+      "block_type": "page_footer"
+    },
+    {
+      "text": "ETHIOPIAN STATISTICAL SERVICE",
+      "bbox": {
+        "page": 9,
+        "x0": 162.38,
+        "y0": 749.562,
+        "x1": 449.48,
+        "y1": 732.2102888665999
+      },
+      "block_type": "section_header"
+    },
+    {
+      "text": "Statistical Bulletin",
+      "bbox": {
+        "page": 9,
+        "x0": 233.45,
+        "y0": 727.861416,
+        "x1": 378.5251760000001,
+        "y1": 710.4865692517552
+      },
+      "block_type": "section_header"
+    },
+    {
+      "text": "Issue No. 21/2017",
+      "bbox": {
+        "page": 9,
+        "x0": 50.88,
+        "y0": 657.62236,
+        "x1": 148.70888,
+        "y1": 649.0360787944026
+      },
+      "block_type": "text"
+    },
+    {
+      "text": "4. Annual Inflation trend",
+      "bbox": {
+        "page": 9,
+        "x0": 55.56,
+        "y0": 633.475,
+        "x1": 222.75,
+        "y1": 619.0152407221665
+      },
+      "block_type": "section_header"
+    },
+    {
+      "text": "Relatively  low  and  reduction  in  inflation  rate  was  observed  between  2005  and  2009.  Since EFY2010 inflation rate stick to double digit.",
+      "bbox": {
+        "page": 9,
+        "x0": 61.584,
+        "y0": 600.6313600000001,
+        "x1": 553.3828799999997,
+        "y1": 570.1889771715145
+      },
+      "block_type": "text"
+    },
+    {
+      "text": "Fig 3: Average Annual General inflation in Ethiopia since Ethiopian EFY2005 (Year -on -Year)",
+      "bbox": {
+        "page": 9,
+        "x0": 75.984,
+        "y0": 540.48136,
+        "x1": 528.7,
+        "y1": 529.8389771715144
+      },
+      "block_type": "caption"
+    },
+    {
+      "text": "The average annual general inflation rate for the country stood at (26.6 %) in EFY2016 compared to (32.6 %) in EFY2015. The past five years are unfavorable for the households, due to high inflation in the country. Specially, in the year EFY2014 and EFY2016, the inflation rate has been over 30 percent for most months. Internal and external factors forced the inflation to be at higher level; COVID19, internal conflict, and Russia -Ukraine War were the major factors.",
+      "bbox": {
+        "page": 9,
+        "x0": 62.304,
+        "y0": 214.30136000000005,
+        "x1": 546.5747200000001,
+        "y1": 124.42897717151459
+      },
+      "block_type": "text"
+    },
+    {
+      "text": "www.ess.gov.et",
+      "bbox": {
+        "page": 9,
+        "x0": 477.58,
+        "y0": 62.375999999999976,
+        "x1": 558.4720000000001,
+        "y1": 51.157190839694636
+      },
+      "block_type": "page_footer"
+    },
+    {
+      "text": "Page 9",
+      "bbox": {
+        "page": 9,
+        "x0": 524.14,
+        "y0": 655.10236,
+        "x1": 561.58888,
+        "y1": 646.5160787944026
+      },
+      "block_type": "text"
+    },
+    {
+      "text": "YOUR RELIABLE DATA SOURCE",
+      "bbox": {
+        "page": 9,
+        "x0": 183.02,
+        "y0": 60.69024000000002,
+        "x1": 370.98535999999996,
+        "y1": 50.368935572519035
+      },
+      "block_type": "page_footer"
+    },
+    {
+      "text": "ETHIOPIAN STATISTICAL SERVICE",
+      "bbox": {
+        "page": 10,
+        "x0": 162.38,
+        "y0": 749.562,
+        "x1": 449.48,
+        "y1": 732.2102888665999
+      },
+      "block_type": "section_header"
+    },
+    {
+      "text": "Statistical Bulletin",
+      "bbox": {
+        "page": 10,
+        "x0": 233.45,
+        "y0": 727.861416,
+        "x1": 378.5251760000001,
+        "y1": 710.4865692517552
+      },
+      "block_type": "section_header"
+    },
+    {
+      "text": "Page 10",
+      "bbox": {
+        "page": 10,
+        "x0": 518.02,
+        "y0": 654.50236,
+        "x1": 561.58888,
+        "y1": 645.9160787944026
+      },
+      "block_type": "text"
+    },
+    {
+      "text": "Issue No. 21/2017",
+      "bbox": {
+        "page": 10,
+        "x0": 57.6,
+        "y0": 652.58236,
+        "x1": 155.42888,
+        "y1": 643.9960787944026
+      },
+      "block_type": "section_header"
+    },
+    {
+      "text": "Fig 4: Average Annual Food Inflation in Ethiopia since EFY2005 (Year",
+      "bbox": {
+        "page": 10,
+        "x0": 101.78,
+        "y0": 623.79136,
+        "x1": 442.0217599999997,
+        "y1": 613.1489771715145
+      },
+      "block_type": "text"
+    },
+    {
+      "text": "-",
+      "bbox": {
+        "page": 10,
+        "x0": 442.15,
+        "y0": 623.79136,
+        "x1": 446.13543999999996,
+        "y1": 613.1489771715145
+      },
+      "block_type": "text"
+    },
+    {
+      "text": "on",
+      "bbox": {
+        "page": 10,
+        "x0": 446.23,
+        "y0": 623.79136,
+        "x1": 458.79446,
+        "y1": 613.1489771715145
+      },
+      "block_type": "text"
+    },
+    {
+      "text": "-",
+      "bbox": {
+        "page": 10,
+        "x0": 458.74,
+        "y0": 623.79136,
+        "x1": 462.72544,
+        "y1": 613.1489771715145
+      },
+      "block_type": "text"
+    },
+    {
+      "text": "Year)",
+      "bbox": {
+        "page": 10,
+        "x0": 462.7,
+        "y0": 623.79136,
+        "x1": 491.5,
+        "y1": 613.1489771715145
+      },
+      "block_type": "text"
+    },
+    {
+      "text": "The average annual food inflation rate for the country stood at (28.1 %) in EFY2016 compared to (31.8  %)  in  EFY2015,  about  four  percentage  point  reduction  compared  to  last  year  figure.  But since 2010 the inflation rate stacked at double digit.",
+      "bbox": {
+        "page": 10,
+        "x0": 61.824,
+        "y0": 191.23136,
+        "x1": 546.10144,
+        "y1": 140.98897717151453
+      },
+      "block_type": "text"
+    },
+    {
+      "text": "www.ess.gov.et",
+      "bbox": {
+        "page": 10,
+        "x0": 477.58,
+        "y0": 62.375999999999976,
+        "x1": 558.4720000000001,
+        "y1": 51.157190839694636
+      },
+      "block_type": "page_footer"
+    },
+    {
+      "text": "YOUR RELIABLE DATA SOURCE",
+      "bbox": {
+        "page": 10,
+        "x0": 183.02,
+        "y0": 60.69024000000002,
+        "x1": 370.98535999999996,
+        "y1": 50.368935572519035
+      },
+      "block_type": "page_footer"
+    },
+    {
+      "text": "ETHIOPIAN STATISTICAL SERVICE",
+      "bbox": {
+        "page": 11,
+        "x0": 162.38,
+        "y0": 749.562,
+        "x1": 449.48,
+        "y1": 732.2102888665999
+      },
+      "block_type": "section_header"
+    },
+    {
+      "text": "Statistical Bulletin",
+      "bbox": {
+        "page": 11,
+        "x0": 233.45,
+        "y0": 727.861416,
+        "x1": 378.5251760000001,
+        "y1": 710.4865692517552
+      },
+      "block_type": "section_header"
+    },
+    {
+      "text": "Issue No. 21/2017",
+      "bbox": {
+        "page": 11,
+        "x0": 57.6,
+        "y0": 652.58236,
+        "x1": 155.42888,
+        "y1": 643.9960787944026
+      },
+      "block_type": "section_header"
+    },
+    {
+      "text": "Fig 5: Average Annual Non",
+      "bbox": {
+        "page": 11,
+        "x0": 91.824,
+        "y0": 612.6313600000001,
+        "x1": 224.30399999999995,
+        "y1": 601.9889771715145
+      },
+      "block_type": "text"
+    },
+    {
+      "text": "-",
+      "bbox": {
+        "page": 11,
+        "x0": 224.33,
+        "y0": 612.6313600000001,
+        "x1": 228.31544000000002,
+        "y1": 601.9889771715145
+      },
+      "block_type": "text"
+    },
+    {
+      "text": "Food Inflation in Ethiopia since EFY2005 (Year",
+      "bbox": {
+        "page": 11,
+        "x0": 228.29,
+        "y0": 612.6313600000001,
+        "x1": 456.5419999999997,
+        "y1": 601.9889771715145
+      },
+      "block_type": "text"
+    },
+    {
+      "text": "-",
+      "bbox": {
+        "page": 11,
+        "x0": 456.79,
+        "y0": 612.6313600000001,
+        "x1": 460.77544,
+        "y1": 601.9889771715145
+      },
+      "block_type": "text"
+    },
+    {
+      "text": "on",
+      "bbox": {
+        "page": 11,
+        "x0": 460.78,
+        "y0": 612.6313600000001,
+        "x1": 473.34445999999997,
+        "y1": 601.9889771715145
+      },
+      "block_type": "text"
+    },
+    {
+      "text": "-",
+      "bbox": {
+        "page": 11,
+        "x0": 473.26,
+        "y0": 612.6313600000001,
+        "x1": 477.24544,
+        "y1": 601.9889771715145
+      },
+      "block_type": "text"
+    },
+    {
+      "text": "Year)",
+      "bbox": {
+        "page": 11,
+        "x0": 477.22,
+        "y0": 612.6313600000001,
+        "x1": 506.02,
+        "y1": 601.9889771715145
+      },
+      "block_type": "text"
+    },
+    {
+      "text": "Page 11",
+      "bbox": {
+        "page": 11,
+        "x0": 518.02,
+        "y0": 654.50236,
+        "x1": 561.58888,
+        "y1": 645.9160787944026
+      },
+      "block_type": "text"
+    },
+    {
+      "text": "The average annual non -food inflation rate for the country stood at (24.3 %) in EFY2016 compared to (33.8 %) in EFY2015. Non -food inflation movement, the past ten year divided into two. Between 2005 and 2009 non -food inflation showed reduction and since then the rate demonstrate increasing trend. This is could be attached to Birr devaluation against USD, Russia -Ukraine War, and increase of international price of gasoline, as most of non -food items are imported or utilize imported raw materials. Relative easing of the non -food inflation for EFY2016 is observed as a result of tight monetary policy in place to reduce bank credit.",
+      "bbox": {
+        "page": 11,
+        "x0": 57.6,
+        "y0": 298.90136,
+        "x1": 544.1622400000001,
+        "y1": 169.4289771715146
+      },
+      "block_type": "text"
+    },
+    {
+      "text": "www.ess.gov.et",
+      "bbox": {
+        "page": 11,
+        "x0": 477.58,
+        "y0": 62.375999999999976,
+        "x1": 558.4720000000001,
+        "y1": 51.157190839694636
+      },
+      "block_type": "page_footer"
+    },
+    {
+      "text": "YOUR RELIABLE DATA SOURCE",
+      "bbox": {
+        "page": 11,
+        "x0": 183.02,
+        "y0": 60.69024000000002,
+        "x1": 370.98535999999996,
+        "y1": 50.368935572519035
+      },
+      "block_type": "page_footer"
+    },
+    {
+      "text": "Enquiries",
+      "bbox": {
+        "page": 12,
+        "x0": 80.184,
+        "y0": 634.1949999999999,
+        "x1": 142.359,
+        "y1": 619.7352407221664
+      },
+      "block_type": "section_header"
+    },
+    {
+      "text": "Telephone number +251 111 568464",
+      "bbox": {
+        "page": 12,
+        "x0": 75.624,
+        "y0": 577.648,
+        "x1": 177.468,
+        "y1": 551.5601925777331
+      },
+      "block_type": "text"
+    },
+    {
+      "text": "Email: alemteferig@gmail.com alemayehu.teferi@ess.gov.et",
+      "bbox": {
+        "page": 12,
+        "x0": 52.92,
+        "y0": 520.20136,
+        "x1": 206.45,
+        "y1": 496.35897717151454
+      },
+      "block_type": "text"
+    },
+    {
+      "text": "Postal address : 1143",
+      "bbox": {
+        "page": 12,
+        "x0": 78.024,
+        "y0": 480.36136,
+        "x1": 178.64255999999997,
+        "y1": 469.71897717151455
+      },
+      "block_type": "text"
+    },
+    {
+      "text": "You can visit us on the Website at: http://www.ess.gov.et/",
+      "bbox": {
+        "page": 12,
+        "x0": 46.56,
+        "y0": 369.31844,
+        "x1": 219.46188000000006,
+        "y1": 338.4003790972919
+      },
+      "block_type": "text"
+    },
+    {
+      "text": "ETHIOPIAN STATISTICAL SERVICE",
+      "bbox": {
+        "page": 12,
+        "x0": 162.38,
+        "y0": 749.562,
+        "x1": 449.48,
+        "y1": 732.2102888665999
+      },
+      "block_type": "section_header"
+    },
+    {
+      "text": "Statistical Bulletin",
+      "bbox": {
+        "page": 12,
+        "x0": 233.45,
+        "y0": 727.861416,
+        "x1": 378.5251760000001,
+        "y1": 710.4865692517552
+      },
+      "block_type": "section_header"
+    },
+    {
+      "text": "Issue No. 21/2017",
+      "bbox": {
+        "page": 12,
+        "x0": 224.45,
+        "y0": 657.86236,
+        "x1": 322.25888000000003,
+        "y1": 649.2760787944026
+      },
+      "block_type": "text"
+    },
+    {
+      "text": "5.  GLOSSARY",
+      "bbox": {
+        "page": 12,
+        "x0": 249.65,
+        "y0": 625.915,
+        "x1": 347.225,
+        "y1": 611.4552407221664
+      },
+      "block_type": "section_header"
+    },
+    {
+      "text": "General Inflation: The highest level of aggregation of inflation which covers all the items within the scope of the inflation.",
+      "bbox": {
+        "page": 12,
+        "x0": 248.93,
+        "y0": 577.95136,
+        "x1": 535.9501599999998,
+        "y1": 527.5589771715145
+      },
+      "block_type": "list_item"
+    },
+    {
+      "text": "Food  Inflation:  inflation  which  covers  all  food  items within the scope of the inflation.",
+      "bbox": {
+        "page": 12,
+        "x0": 248.93,
+        "y0": 518.4013600000001,
+        "x1": 535.9842400000001,
+        "y1": 487.95897717151456
+      },
+      "block_type": "list_item"
+    },
+    {
+      "text": "Non -food  Inflation:  inflation  which  covers  all  non -food items within the scope of the inflation.",
+      "bbox": {
+        "page": 12,
+        "x0": 248.93,
+        "y0": 478.68136,
+        "x1": 533.52544,
+        "y1": 448.23897717151453
+      },
+      "block_type": "list_item"
+    },
+    {
+      "text": "Year -on -Year  percentage  change:  The  Yearly  percentage change is the change in the index of the relevant  month  of  the  current  year  compared  with  the index  of  the  same  month  in  the  previous  year  expressed as a percentage.",
+      "bbox": {
+        "page": 12,
+        "x0": 248.93,
+        "y0": 439.08135999999996,
+        "x1": 535.8533599999997,
+        "y1": 349.09897717151455
+      },
+      "block_type": "list_item"
+    },
+    {
+      "text": "Month -to -Month  percentage  change:  The  monthly percentage change is the change in the index of the relevant month compared with the index of the previous month expressed as a percentage.",
+      "bbox": {
+        "page": 12,
+        "x0": 248.93,
+        "y0": 339.94136,
+        "x1": 536.0790400000001,
+        "y1": 269.7789771715145
+      },
+      "block_type": "list_item"
+    },
+    {
+      "text": "Index  reference  period  (December  EFY2009=100): The period with which all other periods are compared (the  period  for  which  the  value  of  the  CPI  is  set  at 100).",
+      "bbox": {
+        "page": 12,
+        "x0": 248.93,
+        "y0": 260.62136,
+        "x1": 535.9416799999996,
+        "y1": 190.4289771715146
+      },
+      "block_type": "list_item"
+    },
+    {
+      "text": "www.ess.gov.et",
+      "bbox": {
+        "page": 12,
+        "x0": 477.58,
+        "y0": 62.375999999999976,
+        "x1": 558.4720000000001,
+        "y1": 51.157190839694636
+      },
+      "block_type": "page_footer"
+    },
+    {
+      "text": "Page 12",
+      "bbox": {
+        "page": 12,
+        "x0": 507.34,
+        "y0": 654.50236,
+        "x1": 550.90888,
+        "y1": 645.9160787944026
+      },
+      "block_type": "text"
+    },
+    {
+      "text": "YOUR RELIABLE DATA SOURCE",
+      "bbox": {
+        "page": 12,
+        "x0": 183.02,
+        "y0": 60.69024000000002,
+        "x1": 370.98535999999996,
+        "y1": 50.368935572519035
+      },
+      "block_type": "page_footer"
+    }
+  ],
+  "tables": [
+    {
+      "caption": null,
+      "headers": [
+        "Month/Year",
+        "General",
+        "Food",
+        "Non - Food"
+      ],
+      "rows": [
+        [
+          "March EFY2009 - June EFY2010",
+          "14.4",
+          "13.4",
+          "15.9"
+        ],
+        [
+          "March EFY 2010 - JuneEFY2011",
+          "12.6",
+          "13.1",
+          "11.9"
+        ],
+        [
+          "March EFY2011 - June EFY2012",
+          "19.9",
+          "23.3",
+          "15.9"
+        ],
+        [
+          "March EFY2012 - June EFY2013",
+          "20.2",
+          "23.2",
+          "16.4"
+        ],
+        [
+          "March EFY2013 - June EFY2014",
+          "33.8",
+          "40.3",
+          "25.2"
+        ],
+        [
+          "March EFY2014 - June EFY2015",
+          "32.5",
+          "31.7",
+          "33.9"
+        ],
+        [
+          "March EFY2015 - June EFY2016",
+          "26.6",
+          "28.1",
+          "24.3"
+        ],
+        [
+          "March - EFY 2016",
+          "26.2",
+          "29.0",
+          "22.0"
+        ],
+        [
+          "April",
+          "23.3",
+          "27.0",
+          "18.0"
+        ],
+        [
+          "May",
+          "23.3",
+          "25.5",
+          "20.0"
+        ],
+        [
+          "June",
+          "19.9",
+          "22.7",
+          "15.8"
+        ],
+        [
+          "July",
+          "18.6",
+          "20.6",
+          "15.6"
+        ],
+        [
+          "August",
+          "17.2",
+          "18.8",
+          "14.7"
+        ],
+        [
+          "September",
+          "17.5",
+          "19.6",
+          "14.3"
+        ],
+        [
+          "October",
+          "16.1",
+          "19.2",
+          "11.6"
+        ],
+        [
+          "November",
+          "16.9",
+          "18.5",
+          "14.4"
+        ],
+        [
+          "December",
+          "17.0",
+          "18.7",
+          "14.4"
+        ],
+        [
+          "January",
+          "15.5",
+          "15.8",
+          "15.0"
+        ],
+        [
+          "February",
+          "15.0",
+          "14.6",
+          "15.6"
+        ],
+        [
+          "March - EFY 2017",
+          "13.6",
+          "11.9",
+          "16.2"
+        ]
+      ],
+      "bbox": {
+        "page": 2,
+        "x0": 43.67953872680664,
+        "y0": 547.2947387695312,
+        "x1": 572.7055053710938,
+        "y1": 72.081298828125
+      }
+    },
+    {
+      "caption": null,
+      "headers": [
+        "CPI Items",
+        "Items Wight in CPI (%)",
+        "%change on Year - on - Year Inflation March EFY2016 compared with March EFY2017",
+        "%change in Month - to - Month inflation July EFY2017 compared to March EFY2017"
+      ],
+      "rows": [
+        [
+          "Major Food and Non - Alcoholic Bever- age components",
+          "53.5",
+          "11.9",
+          "2.5"
+        ],
+        [
+          "Bread and Cereals",
+          "17.1",
+          "1.2",
+          "1.4"
+        ],
+        [
+          "Vegetables",
+          "12.3",
+          "6.1",
+          "0.5"
+        ],
+        [
+          "Other - Food products",
+          "5.6",
+          "26.7",
+          "3.0"
+        ],
+        [
+          "Non - Alcoholic Beverage",
+          "5.1",
+          "50.2",
+          "6.4"
+        ],
+        [
+          "Meat",
+          "4.1",
+          "17.8",
+          "1.4"
+        ],
+        [
+          "Major Non - Food Components",
+          "46.5",
+          "16.2",
+          "3.2"
+        ],
+        [
+          "Housing, Water, Electricity, Gas and Other Fuels",
+          "16.8",
+          "17.4",
+          "2.5"
+        ],
+        [
+          "Clothing and Footwear",
+          "5.7",
+          "8.7",
+          "2.8"
+        ],
+        [
+          "Restaurants and Hotels",
+          "5.3",
+          "18.3",
+          "4.7"
+        ],
+        [
+          "Alcoholic Beverages and Tobacco",
+          "4.9",
+          "15.2",
+          "2.4"
+        ],
+        [
+          "Furnishings, Household Equipment and Routine Maintenance of the House",
+          "4.7",
+          "15.4",
+          "4.1"
+        ]
+      ],
+      "bbox": {
+        "page": 4,
+        "x0": 41.8004264831543,
+        "y0": 361.3723449707031,
+        "x1": 556.1465454101562,
+        "y1": 73.6656494140625
+      }
+    },
+    {
+      "caption": null,
+      "headers": [
+        "Month",
+        "General month-to-month inflation"
+      ],
+      "rows": [
+        [
+          "March EFY 2016",
+          "4.0"
+        ],
+        [
+          "April",
+          "- 0.7"
+        ],
+        [
+          "May",
+          "0.5"
+        ],
+        [
+          "June",
+          "0.9"
+        ],
+        [
+          "July",
+          "1.5"
+        ],
+        [
+          "August",
+          "1.2"
+        ],
+        [
+          "September",
+          "2.4"
+        ],
+        [
+          "October",
+          "0.9"
+        ],
+        [
+          "November",
+          "- 0.8"
+        ],
+        [
+          "December",
+          "0.8"
+        ],
+        [
+          "January",
+          "0.6"
+        ],
+        [
+          "February",
+          "0.5"
+        ],
+        [
+          "March - EFY 2017",
+          "2.7"
+        ]
+      ],
+      "bbox": {
+        "page": 5,
+        "x0": 86.74879455566406,
+        "y0": 527.9932556152344,
+        "x1": 488.179443359375,
+        "y1": 318.9905700683594
+      }
+    },
+    {
+      "caption": null,
+      "headers": [
+        "Month",
+        "12 Months moving Average Overall CPI",
+        "12 - Month Moving Average overall Inflation"
+      ],
+      "rows": [
+        [
+          "March - EFY2016",
+          "406.9",
+          "28.9"
+        ],
+        [
+          "April",
+          "414.0",
+          "28.1"
+        ],
+        [
+          "May",
+          "421.1",
+          "27.4"
+        ],
+        [
+          "June",
+          "427.2",
+          "26.6"
+        ],
+        [
+          "July",
+          "433.2",
+          "25.6"
+        ],
+        [
+          "August",
+          "438.9",
+          "24.7"
+        ],
+        [
+          "September",
+          "444.9",
+          "23.8"
+        ],
+        [
+          "October",
+          "450.4",
+          "22.6"
+        ],
+        [
+          "November",
+          "457.4",
+          "22.0"
+        ],
+        [
+          "December",
+          "463.5",
+          "21.0"
+        ],
+        [
+          "January",
+          "469.0",
+          "19.9"
+        ],
+        [
+          "February",
+          "474.4",
+          "18.9"
+        ],
+        [
+          "March - EFY2017",
+          "479.6",
+          "17.9"
+        ]
+      ],
+      "bbox": {
+        "page": 7,
+        "x0": 68.98070526123047,
+        "y0": 457.7663269042969,
+        "x1": 548.8492431640625,
+        "y1": 120.65985107421875
+      }
+    },
+    {
+      "caption": null,
+      "headers": [
+        "Month",
+        "12 - month moving average Food Inflation",
+        "12 - month moving average Non - Food Inflation"
+      ],
+      "rows": [
+        [
+          "March - EFY2016",
+          "29.3",
+          "28.4"
+        ],
+        [
+          "April",
+          "28.9",
+          "26.9"
+        ],
+        [
+          "May",
+          "28.6",
+          "25.7"
+        ],
+        [
+          "June",
+          "28.1",
+          "24.3"
+        ],
+        [
+          "July",
+          "27.5",
+          "23.0"
+        ],
+        [
+          "August",
+          "26.7",
+          "21.7"
+        ],
+        [
+          "September",
+          "26.1",
+          "20.4"
+        ],
+        [
+          "October",
+          "25.1",
+          "19.0"
+        ],
+        [
+          "November",
+          "24.4",
+          "18.4"
+        ],
+        [
+          "December",
+          "23.5",
+          "17.5"
+        ],
+        [
+          "January",
+          "22.1",
+          "16.7"
+        ],
+        [
+          "February",
+          "20.8",
+          "16.1"
+        ],
+        [
+          "March - EFY2017",
+          "19.3",
+          "15.7"
+        ]
+      ],
+      "bbox": {
+        "page": 8,
+        "x0": 39.76418685913086,
+        "y0": 466.60186767578125,
+        "x1": 548.056884765625,
+        "y1": 109.5189208984375
+      }
+    }
+  ],
+  "extraction_strategy_used": "Strategy B (Docling)",
+  "total_pages": 12,
+  "metadata": {}
+}

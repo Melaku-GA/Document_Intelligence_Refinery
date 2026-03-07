@@ -1,0 +1,27 @@
+# === Python ===
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+.env
+
+# === Project Specific (The Refinery) ===
+# We ignore the local database and the actual processed data
+.refinery/*.db
+.refinery/extraction_ledger.jsonl
+# Optional: If you want to keep the profiles/indexes in the repo for the rubric, 
+# do NOT ignore these specific folders.
+# .refinery/profiles/
+# .refinery/pageindex/
+
+# === OS & IDE ===
+.DS_Store
+.vscode/
+.idea/
+
+# === Large Data ===
+# Ignore the 50 PDF files to keep the repo slim
+data/*.pdf
+data.zip

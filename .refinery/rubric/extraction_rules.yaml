@@ -1,0 +1,19 @@
+triage_thresholds:
+  scanned_detection:
+    min_char_density: 50.0
+    max_image_ratio: 0.85
+  complexity:
+    multi_col_gap: 25.0
+
+strategy_confidence_gates:
+  strategy_a_min: 0.75
+  strategy_b_min: 0.60
+
+semantic_chunking:
+  max_tokens: 512
+  keep_tables_atomic: true
+  preserve_captions: true
+
+budget_guard:
+  max_usd_per_doc: 2.50
+  model: "gemini-1.5-flash"

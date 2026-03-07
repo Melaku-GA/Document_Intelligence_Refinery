@@ -1,0 +1,15 @@
+{
+  "doc_id": "Annual_Report_JUNE-2019.pdf",
+  "origin_type": "mixed",
+  "layout_complexity": "multi_column",
+  "language_code": "en",
+  "confidence_score": 0.95,
+  "estimated_cost_tier": "medium",
+  "selected_strategy": "Strategy B",
+  "metadata": {
+    "char_density": 18.774060142581984,
+    "image_ratio": 0.6749838390319881,
+    "avg_chars_per_page": 940.875,
+    "detected_cols": 2
+  }
+}

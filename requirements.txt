@@ -1,0 +1,31 @@
+pydantic>=2.0.0
+pdfplumber>=0.11.0
+pyyaml>=6.0.0
+langgraph>=0.1.0
+openai>=1.0.0
+docling>=2.0.0
+python-dotenv
+pymupdf>=1.24.0
+google-generativeai>=0.3.0
+pillow>=10.0.0
+google-genai
+
+# Core Logic
+pydantic>=2.0.0
+pydantic-settings
+python-dotenv
+google-genai
+langchain-core
+langgraph
+
+# Extraction & Layout
+
+
+
+# Data Layer
+chromadb
+tqdm
+pandas
+
+# Demo & UI
+gradio
