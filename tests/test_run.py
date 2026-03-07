@@ -6,7 +6,7 @@ from src.agents.extractor import ExtractionRouter
 # Setup minimal logging to see the "Escalation Guard" in action
 logging.basicConfig(level=logging.INFO, format='%(name)s - %(levelname)s - %(message)s')
 
-def run_diagnostic(test_file="data/Consumer Price Index March 2025.pdf"):
+def run_diagnostic(test_file="data/CBE ANNUAL REPORT 2023-24.pdf"):
     print("\n--- 🕵️ STARTING REFINERY DIAGNOSTIC ---")
     
     if not os.path.exists(test_file):

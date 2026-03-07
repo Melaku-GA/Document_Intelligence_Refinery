@@ -1,4 +1,4 @@
-# Re-export from schemas for backward compatibility
+
 from src.models.schemas import (
     DocumentProfile,
     OriginType,

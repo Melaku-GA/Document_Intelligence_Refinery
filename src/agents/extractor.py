@@ -188,6 +188,10 @@ class ExtractionRouter:
 
         # --- RECORD TO LEDGER ---
         duration = round(time.time() - start_time, 2)
+        
+        # Calculate confidence score based on extraction quality
+        confidence = self._calculate_confidence(result)
+        
         log_to_ledger({
             "doc_id": result.doc_id,
             "original_intent": profile.selected_strategy,
@@ -195,6 +199,7 @@ class ExtractionRouter:
             "duration_sec": duration,
             "blocks": len(result.blocks),
             "tables": len(result.tables),
+            "confidence_score": confidence,
             "escalated": escalated
         })
 
@@ -209,3 +214,30 @@ class ExtractionRouter:
         special_chars = sum(1 for c in total_text if not c.isalnum() and not c.isspace())
         if special_chars / len(total_text) > 0.3: return True
         return False
+
+    def _calculate_confidence(self, doc: ExtractedDocument) -> float:
+        """Calculate confidence score based on extraction quality."""
+        if not doc.blocks:
+            return 0.0
+        
+        # Base confidence
+        confidence = 0.5
+        
+        # Factor 1: Content presence
+        total_chars = sum(len(b.text) for b in doc.blocks)
+        if total_chars > 1000:
+            confidence += 0.2
+        
+        # Factor 2: Table extraction success
+        if doc.tables:
+            confidence += 0.15
+            confidence += min(0.1, len(doc.tables) * 0.02)
+        
+        # Factor 3: Text quality (low mojibake)
+        total_text = " ".join([b.text for b in doc.blocks])
+        if total_text:
+            special_chars = sum(1 for c in total_text if not c.isalnum() and not c.isspace())
+            quality_ratio = 1 - (special_chars / len(total_text))
+            confidence += quality_ratio * 0.15
+        
+        return min(1.0, confidence)
