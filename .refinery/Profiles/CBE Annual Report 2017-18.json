@@ -1,0 +1,15 @@
+{
+  "doc_id": "CBE Annual Report 2017-18.pdf",
+  "origin_type": "native_digital",
+  "layout_complexity": "multi_column",
+  "language_code": "en",
+  "confidence_score": 0.95,
+  "estimated_cost_tier": "medium",
+  "selected_strategy": "Strategy B",
+  "metadata": {
+    "char_density": 40.5823569077709,
+    "image_ratio": 0.06487462095139168,
+    "avg_chars_per_page": 2033.812865497076,
+    "detected_cols": 2
+  }
+}

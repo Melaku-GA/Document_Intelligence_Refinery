@@ -145,7 +145,7 @@ from src.utils.config import settings
 from src.models.schemas import ExtractedDocument, TextBlock, TableObject, BBox
 
 class VisionExtractor:
-    def __init__(self, model_name: str = "gemini-1.5-flash"):
+    def __init__(self, model_name: str = "gemini-2.0-flash"):
         # Initialize the new 2026 GenAI Client
         self.client = genai.Client(api_key=settings.gemini_api_key)
         self.model_id = model_name

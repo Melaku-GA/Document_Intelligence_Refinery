@@ -1,0 +1,15 @@
+{
+  "doc_id": "Consumer Price Index June 2025.pdf",
+  "origin_type": "native_digital",
+  "layout_complexity": "multi_column",
+  "language_code": "en",
+  "confidence_score": 0.95,
+  "estimated_cost_tier": "medium",
+  "selected_strategy": "Strategy B",
+  "metadata": {
+    "char_density": 25.455662710564674,
+    "image_ratio": 0.1661386815141105,
+    "avg_chars_per_page": 1233.8461538461538,
+    "detected_cols": 2
+  }
+}

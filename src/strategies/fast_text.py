@@ -24,8 +24,10 @@ class FastTextExtractor:
                 # 1. Extract Text with Layout Preservation
                 text_content = page.extract_text(layout=True)
                 if text_content:
+                    # Handle encoding issues by replacing problematic chars
+                    text_content = text_content.encode('utf-8', errors='replace').decode('utf-8', errors='replace')
+                    
                     # For Strategy A, we treat the whole page as a block 
-                    # unless more granular segmentation is needed.
                     blocks.append(TextBlock(
                         text=text_content,
                         block_type="page_content",
@@ -33,16 +35,15 @@ class FastTextExtractor:
                     ))
 
                 # 2. Extract Tables (Basic Detection)
-                # Strategy A uses pdfplumber's built-in table finder
                 found_tables = page.extract_tables()
                 for table in found_tables:
                     # Filter out empty tables
-                    clean_table = [row for row in table if any(cell and cell.strip() for cell in row)]
+                    clean_table = [row for row in table if any(cell and str(cell).strip() for cell in row)]
                     if not clean_table:
                         continue
 
                     tables.append(TableObject(
-                        headers=clean_table[0],
+                        headers=clean_table[0] if clean_table else [],
                         rows=clean_table[1:] if len(clean_table) > 1 else [],
                         bbox=BBox(page=page_num, x0=0, y0=0, x1=100, y1=100) # Placeholder coordinates
                     ))

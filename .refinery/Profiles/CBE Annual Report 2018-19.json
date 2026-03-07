@@ -1,15 +1,15 @@
 {
-  "doc_id": "Annual_Report_JUNE-2019.pdf",
-  "origin_type": "mixed",
+  "doc_id": "CBE Annual Report 2018-19.pdf",
+  "origin_type": "native_digital",
   "layout_complexity": "multi_column",
   "language_code": "en",
   "confidence_score": 0.95,
   "estimated_cost_tier": "medium",
   "selected_strategy": "Strategy B",
   "metadata": {
-    "char_density": 18.774060142581984,
-    "image_ratio": 0.6749838390319881,
-    "avg_chars_per_page": 940.875,
+    "char_density": 38.29571147891012,
+    "image_ratio": 0.05243372058026879,
+    "avg_chars_per_page": 1919.216049382716,
     "detected_cols": 2
   }
 }

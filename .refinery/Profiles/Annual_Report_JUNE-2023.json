@@ -1,0 +1,15 @@
+{
+  "doc_id": "Annual_Report_JUNE-2023.pdf",
+  "origin_type": "native_digital",
+  "layout_complexity": "multi_column",
+  "language_code": "en",
+  "confidence_score": 0.95,
+  "estimated_cost_tier": "medium",
+  "selected_strategy": "Strategy B",
+  "metadata": {
+    "char_density": 81.1545537827142,
+    "image_ratio": 0.22990732828431595,
+    "avg_chars_per_page": 3542.5,
+    "detected_cols": 2
+  }
+}

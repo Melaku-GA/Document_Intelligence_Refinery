@@ -1,0 +1,15 @@
+{
+  "doc_id": "Consumer Price Index August 2025.pdf",
+  "origin_type": "native_digital",
+  "layout_complexity": "multi_column",
+  "language_code": "en",
+  "confidence_score": 0.95,
+  "estimated_cost_tier": "medium",
+  "selected_strategy": "Strategy B",
+  "metadata": {
+    "char_density": 26.261864497158616,
+    "image_ratio": 0.16524946706570487,
+    "avg_chars_per_page": 1272.923076923077,
+    "detected_cols": 2
+  }
+}

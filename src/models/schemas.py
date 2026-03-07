@@ -32,8 +32,8 @@ class TextBlock(BaseModel):
 
 class TableObject(BaseModel):
     caption: Optional[str] = None
-    headers: List[str]
-    rows: List[List[str]]
+    headers: List[Any]  # Can be strings or integers
+    rows: List[List[Any]]
     bbox: BBox
 
 
