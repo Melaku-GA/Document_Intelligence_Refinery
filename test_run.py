@@ -1,5 +1,13 @@
 import os
 import logging
+import sys
+
+# Fix Unicode issues on Windows
+if sys.platform == 'win32':
+    import io
+    sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8', errors='replace')
+    sys.stderr = io.TextIOWrapper(sys.stderr.buffer, encoding='utf-8', errors='replace')
+
 from src.agents.triage import TriageAgent
 from src.agents.extractor import ExtractionRouter
 
@@ -7,7 +15,7 @@ from src.agents.extractor import ExtractionRouter
 logging.basicConfig(level=logging.INFO, format='%(name)s - %(levelname)s - %(message)s')
 
 def run_diagnostic(test_file="data/tax_expenditure_ethiopia_2021_22.pdf"):
-    print("\n--- 🕵️ STARTING REFINERY DIAGNOSTIC ---")
+    print("\n--- STARTING REFINERY DIAGNOSTIC ---")
     
     if not os.path.exists(test_file):
         print(f"❌ Error: {test_file} not found. Please place it in the data/ folder.")

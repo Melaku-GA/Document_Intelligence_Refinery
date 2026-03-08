@@ -1,0 +1,11 @@
+{
+  "sections": [
+    {
+      "title": "Document Start",
+      "page_start": 1,
+      "children": []
+    }
+  ],
+  "total_pages": 60,
+  "index_type": "heuristic_fallback"
+}

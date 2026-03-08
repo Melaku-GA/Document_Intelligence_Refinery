@@ -117,5 +117,5 @@ class PageIndexer:
         # Ensure the pageindex directory exists
         os.makedirs(".refinery/pageindex", exist_ok=True)
         path = f".refinery/pageindex/{filename}_tree.json"
-        with open(path, "w") as f:
-            json.dump(tree, f, indent=2)
+        with open(path, "w", encoding="utf-8") as f:
+            json.dump(tree, f, indent=2, ensure_ascii=False)

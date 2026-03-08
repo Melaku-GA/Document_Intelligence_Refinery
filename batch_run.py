@@ -7,7 +7,7 @@ def run_full_refinery(data_dir="data/"):
     files = [f for f in os.listdir(data_dir) if f.endswith(".pdf")]
     stats = []
 
-    print(f"🚀 Starting Batch Process on {len(files)} documents...")
+    print(f"Starting Batch Process on {len(files)} documents...")
     
     # Progress bar makes for a great demo video!
     for filename in tqdm(files, desc="Refining Corpus", unit="doc"):

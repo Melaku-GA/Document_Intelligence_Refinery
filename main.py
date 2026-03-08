@@ -180,7 +180,7 @@ def process_corpus(filepath):
     print(f"\n[1] Analyzing {filename}...")
     profile = triage.analyze(filepath)
     
-    with open(f".refinery/profiles/{name}.json", "w") as f:
+    with open(f".refinery/profiles/{name}.json", "w", encoding="utf-8") as f:
         f.write(profile.model_dump_json(indent=2))
     print(f"[OK] Profiled -> {profile.selected_strategy}")
 
@@ -188,7 +188,7 @@ def process_corpus(filepath):
     print(f"[2] Executing Extraction...")
     extracted_doc = router.process(filepath, profile)
     
-    with open(f".refinery/extractions/{name}_data.json", "w") as f:
+    with open(f".refinery/extractions/{name}_data.json", "w", encoding="utf-8") as f:
         f.write(extracted_doc.model_dump_json(indent=2))
     print(f"[OK] Extracted: {len(extracted_doc.blocks)} blocks, {len(extracted_doc.tables)} tables.")
 
@@ -226,10 +226,10 @@ def run_batch(limit=12):
 
 if __name__ == "__main__":
     # Set to True to process the whole folder at once
-    DO_BATCH = True 
+    DO_BATCH = False 
     
     if DO_BATCH:
         run_batch(limit=12)
     else:
         # Process a single specific file
-        process_corpus("data/Consumer Price Index March 2025.pdf")
+        process_corpus("data/tax_expenditure_ethiopia_2021_22.pdf")

@@ -32,7 +32,7 @@ def pageindex_navigate(doc_id: str, section_query: str):
     if not path:
         return json.dumps({"error": "Index not found", "doc_id": doc_id})
     
-    with open(path, "r") as f:
+    with open(path, "r", encoding="utf-8") as f:
         tree = json.load(f)
     return json.dumps(tree)
 
@@ -112,13 +112,13 @@ The user query: {state['messages'][-1].content}"""
         
         return builder.compile()
 
-    def run(self, query: str, doc_id: str = "Consumer Price Index March 2025.pdf"):
+    def run(self, query: str, doc_id: str = None):
         """Execute a query against the document corpus."""
         # Use vector search directly since LangGraph has issues
         vstore = VectorStore()
         
-        # First try semantic search
-        search_results = vstore.search(query, n_results=3)
+        # First try semantic search (across all documents if no specific doc_id)
+        search_results = vstore.search(query, n_results=3, doc_id=doc_id)
         
         # Build answer from search results
         answer = "Based on the document analysis:\n\n"
@@ -130,22 +130,26 @@ The user query: {state['messages'][-1].content}"""
             
             if docs:
                 for i, (doc, meta) in enumerate(zip(docs, metas)):
-                    answer += f"Result {i+1}: {doc[:200]}...\n\n"
+                    answer += f"Result {i+1}: {doc[:500]}...\n\n"
+                    # Use the doc_id from metadata, or fallback to provided doc_id or default
+                    result_file = meta.get('doc_id') or doc_id or 'tax_expenditure_ethiopia_2021_22.pdf'
+                    if not str(result_file).endswith('.pdf'):
+                        result_file = f"{result_file}.pdf"
                     provenance.append({
                         "page": meta.get('page', 1),
                         "x0": meta.get('x0', 0),
                         "y0": meta.get('y0', 0),
                         "x1": meta.get('x1', 100),
                         "y1": meta.get('y1', 100),
-                        "file": f"data/{doc_id}"
+                        "file": f"data/{result_file}"
                     })
             else:
                 answer = "I couldn't find relevant information in the document. Please try a different query."
-                provenance = [{"page": 1, "x0": 0, "y0": 0, "x1": 100, "y1": 100, "file": f"data/{doc_id}"}]
+                provenance = [{"page": 1, "x0": 0, "y0": 0, "x1": 100, "y1": 100, "file": "data/tax_expenditure_ethiopia_2021_22.pdf"}]
         
         # Fallback provenance if none found
         if not provenance:
-            provenance = [{"page": 1, "x0": 0, "y0": 0, "x1": 100, "y1": 100, "file": f"data/{doc_id}"}]
+            provenance = [{"page": 1, "x0": 0, "y0": 0, "x1": 100, "y1": 100, "file": "data/tax_expenditure_ethiopia_2021_22.pdf"}]
 
         return {
             "answer": answer,

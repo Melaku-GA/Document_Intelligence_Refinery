@@ -46,8 +46,23 @@ def ask_refinery(question):
         doc = pymupdf.open(prov["file"])
         page = doc[prov["page"] - 1]
         
+        # Get bbox coordinates, ensuring they're valid
+        x0 = float(prov.get("x0", 0) or 0)
+        y0 = float(prov.get("y0", 0) or 0)
+        x1 = float(prov.get("x1", 100) or 100)
+        y1 = float(prov.get("y1", 100) or 100)
+        
+        # Ensure valid rectangle dimensions
+        if x1 <= x0:
+            x1 = x0 + 100
+        if y1 <= y0:
+            y1 = y0 + 100
+        
         # Draw Red Rectangle
-        rect = pymupdf.Rect(prov["x0"], prov["y0"], prov["x1"], prov["y1"])
+        rect = pymupdf.Rect(x0, y0, x1, y1)
+        if rect.is_empty or rect.is_infinite:
+            # Fallback: use full page
+            rect = page.rect
         page.add_rect_annot(rect)
         
         pix = page.get_pixmap(matrix=pymupdf.Matrix(2, 2))
@@ -59,7 +74,7 @@ def ask_refinery(question):
     
 # Gradio Layout
 with gr.Blocks() as demo:
-    gr.Markdown("# 🇪🇹 Ethiopian Financial Refinery Demo")
+    gr.Markdown("# Ethiopian Financial Refinery Demo")
     with gr.Row():
         with gr.Column():
             query_input = gr.Textbox(label="Ask the Corpus", placeholder="e.g., What was the headline inflation in March 2025?")

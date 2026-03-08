@@ -1,0 +1,15 @@
+{
+  "doc_id": "tax_expenditure_ethiopia_2021_22.pdf",
+  "origin_type": "native_digital",
+  "layout_complexity": "multi_column",
+  "language_code": "en",
+  "confidence_score": 0.95,
+  "estimated_cost_tier": "medium",
+  "selected_strategy": "Strategy B",
+  "metadata": {
+    "char_density": 34.999725583255135,
+    "image_ratio": 0.0007183224179620457,
+    "avg_chars_per_page": 1753.4166666666667,
+    "detected_cols": 2
+  }
+}

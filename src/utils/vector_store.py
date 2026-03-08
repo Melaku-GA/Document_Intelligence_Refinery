@@ -19,7 +19,7 @@ class VectorStore:
         index_file = os.path.join(self.db_path, "index.json")
         if os.path.exists(index_file):
             try:
-                with open(index_file, 'r') as f:
+                with open(index_file, 'r', encoding='utf-8') as f:
                     self.documents = json.load(f)
             except:
                 self.documents = {}
@@ -27,8 +27,8 @@ class VectorStore:
     def _save_index(self):
         """Persist index to disk."""
         index_file = os.path.join(self.db_path, "index.json")
-        with open(index_file, 'w') as f:
-            json.dump(self.documents, f)
+        with open(index_file, 'w', encoding='utf-8') as f:
+            json.dump(self.documents, f, ensure_ascii=False)
 
     def _generate_id(self, text: str) -> str:
         """Generate a simple hash-based ID for content."""
